@@ -32,8 +32,20 @@ Canais suportados: Todos
 # 3. Instalação e configuração
    
 Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot [ROUTER]. Após sua ativação, você deverá:
+
 1 - Deve ser apresentada a tela abaixo:
 
+1.1
+
+![image](https://github.com/user-attachments/assets/bca899a7-45b5-48dd-87a8-c88668f0185a)
+
+1.2
+
+![image](https://github.com/user-attachments/assets/c04ae88d-b711-4f82-8439-567c63ee724e)
+
+1.3
+
+![image](https://github.com/user-attachments/assets/13e74599-3d45-436e-b4f7-fec63200d3c5)
 
 
 # 4. Suporte 
