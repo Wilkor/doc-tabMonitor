@@ -35,17 +35,21 @@ Ao ativar a extensão pela Blip Store, ela deverá ser instalada no bot [ROUTER]
 
 1 - Deve ser apresentada a tela abaixo:
 
-1.1
+1.1 - Tela inicial.
 
 ![image](https://github.com/user-attachments/assets/bca899a7-45b5-48dd-87a8-c88668f0185a)
 
-1.2
+1.2 - Clique no circulo para ir até a tela de instalação da extensão.
 
 ![image](https://github.com/user-attachments/assets/c04ae88d-b711-4f82-8439-567c63ee724e)
 
-1.3
+1.3 - Nessa tela, você deve instalar a extensão do Chrome.
 
 ![image](https://github.com/user-attachments/assets/13e74599-3d45-436e-b4f7-fec63200d3c5)
+
+1.4 - Aqui você pode verificar as Tabs que o usuário esta navegando.
+
+![image](https://github.com/user-attachments/assets/e27a3361-6221-4c59-9473-f5ff9e1d044c)
 
 
 # 4. Suporte 
