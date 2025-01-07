@@ -2,7 +2,7 @@
 
 
 
-# Como utilizar a extensão HateCheck
+# Como utilizar a extensão TabMonitor
 
 Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua extensão:
 
